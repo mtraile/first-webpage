@@ -1,0 +1,19 @@
+body {
+    text-align: center; 
+}
+
+h1 { 
+    color: rgba(182, 205, 92, 0.864);
+    }
+
+    h2 {
+        color: rgb(128, 98, 0);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid blue;
+    width: 200%;
+    height: 200%;
+}
